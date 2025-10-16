@@ -1,0 +1,24 @@
+# Visual Studio 2022 ignore list
+
+# User-specific files
+.rsuser
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Build results
+[Bb]in
+[Oo]bj
+[Ll]og
+
+# Visual Studio cache and temp files
+.vs
+.vsidx
+.dbmdl
+.bak
+.vscode
+
+# Other files
+[Tt]est[Rr]esult
+[Bb]uild[Ll]og.
